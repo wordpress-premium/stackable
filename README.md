@@ -1,4 +1,6 @@
-# Stackable - Ultimate Gutenberg Blocks
+# Stackable
+
+## Ultimate Gutenberg Blocks
 
 ![GitLab Release](https://img.shields.io/gitlab/v/release/wordpress-premium%2Fstackable) ![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/stackable-ultimate-gutenberg-blocks) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/stackable-ultimate-gutenberg-blocks) ![WordPress Plugin Stars](https://img.shields.io/wordpress/plugin/stars/stackable-ultimate-gutenberg-blocks)
 
@@ -6,7 +8,7 @@
 
 ## Download
 
-[Click here to download Stackable - Ultimate Gutenberg Blocks](https://github.com/wordpress-premium/stackable-ultimate-gutenberg-blocks-premium/archive/refs/heads/main.zip) as a `.zip` file. Follow [SiteGround's detailed description](https://www.siteground.com/tutorials/wordpress/install-plugins/#How_to_Upload_a_WordPress_Plugin_from_a_File) to upload it to your dashboard, or do it via (S)FTP.
+[Click here to download Stackable - Ultimate Gutenberg Blocks](https://gitlab.com/wordpress-premium/stackable/-/archive/main/stackable-main.zip) as a `.zip` file. Follow [SiteGround's detailed description](https://www.siteground.com/tutorials/wordpress/install-plugins/#How_to_Upload_a_WordPress_Plugin_from_a_File) to upload it to your dashboard, or do it via (S)FTP.
 
 ## Usage
 
