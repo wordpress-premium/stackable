@@ -1,0 +1,20 @@
+{
+	"apiVersion": 3,
+	"name": "stackable/design-library",
+	"title": "Design Library",
+	"description": "Choose a layout or block from the Stackable Design Library.",
+	"category": "stackable",
+	"usesContext": [
+		"postId",
+		"postType",
+		"queryId",
+		"stackable/innerBlockOrientation"
+	],
+	"keywords": [
+		"Template"
+	],
+	"textdomain": "stackable-ultimate-gutenberg-blocks",
+	"stk-type": "special",
+	"stk-demo": "https://wpstackable.com/designs/?utm_source=welcome&utm_medium=settings&utm_campaign=view_demo&utm_content=demolink",
+	"stk-available-states": [ "enabled", "hidden" ]
+}

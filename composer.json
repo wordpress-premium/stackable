@@ -1,0 +1,20 @@
+{
+	"name": "wordpress-premium/stackable",
+	"type": "wordpress-plugin",
+	"description": "A WordPress plugin that gives you custom WordPress blocks, designs, templates, advanced features like dynamic content, conditional display and many many more",
+	"license": "GPL-3.0-or-later",
+	"authors": [
+		{
+			"name": "Gambit Technologies",
+			"homepage": "http://gambit.ph"
+		},
+		{
+			"name": "WordPress Premium",
+			"email": "info@wordpress-premium.net",
+			"homepage": "https://www.wordpress-premium.net"
+		}
+	],
+	"require": {
+		"php": ">=7.3"
+	}
+}

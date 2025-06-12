@@ -1,0 +1,28 @@
+{
+	"apiVersion": 3,
+	"name": "stackable/hero",
+	"title": "Hero",
+	"description": "A large hero area. Typically used at the very top of a page.",
+	"category": "stackable",
+	"usesContext": [
+		"postId",
+		"postType",
+		"queryId",
+		"stackable/innerBlockOrientation"
+	],
+	"providesContext": {
+		"stackable/innerBlockOrientation": "innerBlockOrientation"
+	},
+	"keywords": [
+		"Header"
+	],
+	"textdomain": "stackable-ultimate-gutenberg-blocks",
+	"stk-type": "section",
+	"stk-demo": "https://wpstackable.com/hero-block/?utm_source=welcome&utm_medium=settings&utm_campaign=view_demo&utm_content=demolink",
+	"stk-substitution-blocks": [
+		"stackable/heading",
+		"stackable/text",
+		"stackable/button-group",
+		"stackable/button"
+	]
+}

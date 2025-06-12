@@ -1,0 +1,24 @@
+{
+	"apiVersion": 3,
+	"name": "stackable/columns",
+	"title": "Columns",
+	"description": "Multiple columns with advanced layout options.",
+	"category": "stackable",
+	"usesContext": [
+		"postId",
+		"postType",
+		"queryId"
+	],
+	"keywords": [
+		"Section rows",
+		"Container"
+	],
+	"providesContext": {
+		"stackable/innerBlockOrientation": "columnJustify",
+		"stackable/columnWrapDesktop": "columnWrapDesktop"
+	},
+	"textdomain": "stackable-ultimate-gutenberg-blocks",
+	"stk-type": "essential",
+	"stk-demo": "https://wpstackable.com/columns-block/?utm_source=welcome&utm_medium=settings&utm_campaign=view_demo&utm_content=demolink",
+	"stk-available-states": [ "enabled", "hidden" ]
+}

@@ -1,0 +1,25 @@
+{
+	"apiVersion": 3,
+	"name": "stackable/column",
+	"title": "Inner Column",
+	"description": "A single column with advanced layout options.",
+	"category": "stackable",
+	"usesContext": [ "postId", "postType", "queryId", "stackable/innerBlockOrientation", "stackable/columnWrapDesktop" ],
+	"providesContext": {
+		"stackable/innerBlockOrientation": "innerBlockOrientation"
+	},
+	"keywords": [
+		"Section rows"
+	],
+	"parent": [
+		"stackable/columns",
+		"stackable/carousel",
+		"stackable/feature",
+		"stackable/feature-grid",
+		"stackable/horizontal-scroller",
+		"stackable/tab-content"
+	],
+	"textdomain": "stackable-ultimate-gutenberg-blocks",
+	"stk-type": "hidden",
+	"stk-available-states": [ "enabled", "hidden" ]
+}

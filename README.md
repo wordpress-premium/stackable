@@ -1,93 +1,47 @@
-# Stackable
+# Stackable - Ultimate Gutenberg Blocks
 
+![GitLab Release](https://img.shields.io/gitlab/v/release/wordpress-premium%2Fstackable) ![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/stackable-ultimate-gutenberg-blocks) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/stackable-ultimate-gutenberg-blocks) ![WordPress Plugin Stars](https://img.shields.io/wordpress/plugin/stars/stackable-ultimate-gutenberg-blocks)
 
+[**Stackable - Ultimate Gutenberg Blocks**](https://wpstackable.com/) is a powerful Gutenberg block plugin for WordPress designed to help website owners and digital marketers create beautiful and functional websites using the block editor.
 
-## Getting started
+## Download
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/wordpress-premium/stackable.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/wordpress-premium/stackable/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+[Click here to download Stackable - Ultimate Gutenberg Blocks](https://github.com/wordpress-premium/stackable-ultimate-gutenberg-blocks-premium/archive/refs/heads/main.zip) as a `.zip` file. Follow [SiteGround's detailed description](https://www.siteground.com/tutorials/wordpress/install-plugins/#How_to_Upload_a_WordPress_Plugin_from_a_File) to upload it to your dashboard, or do it via (S)FTP.
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+This is the **fully activated pro version ("nulled")** of the plugin, provided by [wordpress-premium.net](https://www.wordpress-premium.net). We thoroughly **scanned and cleaned it of any malware** and released it to give users access to try this plugin before purchasing it or conducting technical research. If you intend to use this plugin for your website, **you must** [purchase a license](https://wpstackable.com/premium/) through the author's official website.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+**Note:** Using activated ("nulled") software may violate the original author's licensing terms, and you may not receive official support or updates.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+## Donate
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+If you appreciate [WordPress Premium's](https://www.wordpress-premium.net/) service and would like to keep getting up-to-date, malware-free pro and premium plugins, please consider [leaving a tip via PayPal](https://www.paypal.com/paypalme/thaikolja) or via a [cryptocurrency of your choice](https://www.wordpress-premium.net/wallets/).
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+🚨 **Note:** Keeping all plugins updated and malware-free takes a lot of time and effort. **If we do not receive donations, we will shut down the free repositories and only sell to buying members.**
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+## Changelog
 
-## License
-For open source projects, say how it is licensed.
+**Released:** June 3rd, 2025
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+### v3.16.0
+
+*   **New:** Theme.json support – relevant blocks now inherit styles from your block theme #3490
+*   **New:** Theme.json support – block theme preset values are now used by Stackable blocks #3474
+*   **New:** Typography Type Scale – choose from preset type scales for your typography #3474
+*   **New:** Global Value Presets – adjust preset values for font sizes, margins, paddings and more #3474 (premium)
+*   **New:** Added options to enable/disable block style inheritance and preset values #3474 #3490
+*   **New:** Video popup block – now outputs video schema #3402
+*   **New:** Dynamic Content – added User metadata #3129
+*   **New:** Added help links to manage global color schemes #3471
+*   **New:** Added integrations for WP Interactions #3497
+*   **Fixed:** Number box block – content alignment now works properly #3456
+*   **Fixed:** Dynamic content – date format is now translated properly #3464
+*   **Fixed:** Column order now supports up to max 20 inner columns #3491
+*   **Fixed:** Role Manager Settings – can appear blank #3494
+*   **Fixed:** Minor performance improvements on custom breakpoints #3477 #3496
+*   **Fixed:** Posts block – taxonomies for some post types may not query correctly #380
+
+---
+
+For other version changelogs, check the [official website](https://wpstackable.com/changelog/).
